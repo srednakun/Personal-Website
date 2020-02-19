@@ -1,0 +1,30 @@
+body{
+	/*background-image: url("../images/Wallpaper.png");
+	background-position: bottom;
+	background-repeat: no-repeat;
+	 background-size: cover;
+*/
+}
+
+/*add hover effects at some point*/
+.icon{
+	height: 5rem;
+}
+
+.profile-pic{
+	 transform: rotate(90deg);
+	 height: 10em;
+	 float: right;
+	 display: block;
+}
+
+.intro{
+	
+	background-color: yellow;
+	display: block;
+}
+
+.icon-intro{
+	background-color: blue;
+	float: right;
+}
