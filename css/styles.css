@@ -35,13 +35,12 @@ body{
 }
 
 .intro{
-	
-	margin-top: 10%;
+	background-color: #e3dee0;
+	opacity: 90%;
 }
 
 .intro p{
-	background-color: #e3dee0;
-	opacity: 80%;
+
 }
 
 
