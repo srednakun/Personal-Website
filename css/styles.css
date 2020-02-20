@@ -6,13 +6,36 @@ body{
 */
 }
 
-/*add hover effects at some point*/
-.icon{
-	height: 5rem;
+.masthead {
+  height: 10rem;
+  min-height: 35rem;
+  background-image: url("../images/Flower_Print.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 80%;
 }
 
-.navbar {
-	background-color: yellow !important;
+.bottom-content{
+
+}
+
+.navigation{
+
+
+}
+
+.navbar-brand{
+
+}
+
+.nav-item a{
+    
+}
+
+/*add hover effects at some point*/
+.icon{
+	height: 2.5rem;
 }
 
 .profile-pic{
