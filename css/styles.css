@@ -11,23 +11,37 @@ body{
 	height: 5rem;
 }
 
-.profile-pic{
-	 transform: rotate(90deg);
-	 height: 10rem;
-	 margin-top: 5rem;
-	 margin-bottom: 5rem;
-
+.navbar {
+	background-color: yellow !important;
 }
 
+.profile-pic{
+	transform: rotate(90deg);
+	height: 10rem;
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+
+}
+.top-bar{
+
+}
 .intro{
 
 
 	
-	background-color: yellow;
+	
+
 }
 
 .intro-p{
 	width: 25rem;
+
+        display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
 
 
