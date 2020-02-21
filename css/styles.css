@@ -6,14 +6,15 @@ body{
 */
 }
 
-.masthead {
-  height: 20%;
+.center-page {
+  
   min-height: 35rem;
   background-image: url("../images/Flower_Print.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   opacity: 80%;
+  margin-top: 56px;
 }
 
 .bottom-content{
@@ -23,24 +24,70 @@ body{
 
 /*add hover effects at some point*/
 .icon{
-	height: 2.5rem;
-}
+	height: 5rem;
 
+}
+.icons {
+	background-color: blue;
+}
+.icons img{
+
+
+	background-color: yellow;
+}
 .profile-pic{
 	
 	height: 10rem;
-	margin-top: 5rem;
-	margin-bottom: 5rem;
+	margin-top: 4rem;
+	margin-bottom: 2rem;
 
 }
 
 .intro{
 	background-color: #e3dee0;
 	opacity: 90%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 2em;
+
+
+
+
+}
+
+.schedule{
+		opacity: 90%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 2em;
+
 }
 
 .intro p{
 
+}
+
+.intro-parent{
+/*	display: block;
+	margin-top: auto;
+	margin-bottom: auto;*/
+height: 35em !important;
+
+
+}
+
+.intro-parent2{
+
+
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.calendar{
+	display: flex;
+	float: right;
 }
 
 
